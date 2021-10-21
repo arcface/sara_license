@@ -44,3 +44,5 @@ It is the hosting path where your license.php file will reside. Replace this wit
 
 Finally, transfer the `license.php` and `license.db` file to your hosting.
 
+At the end of the process, do not forget to encrypt the function file you included in the app.php with Ioncube or a derivative encryption system.
+
